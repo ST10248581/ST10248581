@@ -1,4 +1,4 @@
-# Troy Krause
+# BCAD Student
 
 > Passionate about data science and AI technology, I am currently studying Computer Science, looking for any opurtunity to gain experience in any field relating to IT.
 
