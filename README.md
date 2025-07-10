@@ -1,6 +1,8 @@
 # 👋 Hey there, I'm Troy
 
 🎓 Final-year Computer Science Student | 💻 Full-stack Developer  
+---
+
 🔁 Focused on building modern systems with robust architecture and automation in mind.  
 
 > Currently working part-time as a developer.
@@ -53,8 +55,7 @@ Refactored MVC E-commerce platform demonstrating built in .NET.
 
 ## 🧠 Background & Approach
 
-- 🎓 Deep understanding of software architecture (academic + practical)  
-- 🧠 Neurodivergent (AuDHD) – I thrive in focused, creative, problem-solving environments  
+- 🎓 Deep understanding of software architecture (academic + practical) 
 - 💬 Fluent in English & Afrikaans  
 - 📚 Constant learner – especially interested in architecture, testing, and automation systems
 
