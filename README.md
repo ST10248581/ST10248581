@@ -1,10 +1,8 @@
 # 👋 Hey there, I'm Troy
 
-🎓 Final-year Computer Science Student | 💻 Full-stack Developer  
----
+🎓 Final-year Computer Science Student | 💻 Full-stack Developer 
 
-🔁 Focused on building modern systems with robust architecture and automation in mind.  
-
+> Focused on building modern systems with robust architecture and automation in mind.  
 > Currently working part-time as a developer.
 
 ---
