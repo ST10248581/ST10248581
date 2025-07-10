@@ -79,14 +79,6 @@ Refactored MVC E-commerce platform demonstrating built in .NET.
 
 ---
 
-## 🔗 Connect With Me
-
-- [LinkedIn](https://linkedin.com/in/yourname) *(add once ready)*  
-- [Portfolio](https://yourdomain.dev) *(optional — I can help you build this)*  
-- 📫 Email: `your@email.com`
-
----
-
 ## 🧩 Let’s Build Something Great
 
 Whether you're designing clean APIs or debugging client-side chaos — I love building things that **work beautifully** and **scale reliably**.
