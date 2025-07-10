@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Core Tools**
 - Backend: `.NET 8`, `C#`, `Entity Framework`, `SQL Server`
@@ -23,9 +23,9 @@
 
 ---
 
-## 🚀 Projects & Work
+## Projects & Work
 
-### 🕓 [DateInputNormalizer](https://github.com/ST10248581/timezone-date-normalization-api)
+### [DateInputNormalizer](https://github.com/ST10248581/timezone-date-normalization-api)
 **Status:** Complete
 
 - Time zone–safe DateTime and DateOnly JSON (de)serialization in .NET APIs using custom converters
@@ -51,7 +51,7 @@ Refactored MVC E-commerce platform demonstrating built in .NET.
 - Demonstrates control structures, sensor integration, and hardware debugging
 ---
 
-## 🧠 Background & Approach
+## Background & Approach
 
 - 🎓 Deep understanding of software architecture (academic + practical) 
 - 💬 Fluent in English & Afrikaans  
@@ -59,7 +59,7 @@ Refactored MVC E-commerce platform demonstrating built in .NET.
 
 ---
 
-## 📦 GitHub Highlights
+## GitHub Highlights
 
 ✅ Comfortable with:
 - CI/CD pipelines using GitHub Actions
@@ -72,13 +72,16 @@ Refactored MVC E-commerce platform demonstrating built in .NET.
 - Automating common dev tasks in my projects
 
 ---
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ST10248581&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10248581&layout=compact&theme=radical)
 
 ---
+## Latest Blog Posts
 
-## 🧩 Let’s Build Something Great
+---
+
+## Let’s Build Something Great
 
 Whether you're designing clean APIs or debugging client-side chaos — I love building things that **work beautifully** and **scale reliably**.
