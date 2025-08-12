@@ -28,8 +28,6 @@
 
 - Time zone–safe DateTime and DateOnly JSON (de)serialization in .NET APIs using custom converters
   
-
-  
 ### 🔄 [Looply]([https://github.com/yourname/looply](https://github.com/ST10248581/looply-ui))
 **Status:** In Progress
 
@@ -39,7 +37,6 @@
 **Status:** Comin Soon
 
 Refactored MVC E-commerce platform demonstrating built in .NET.
-
 
 ### 🤖 [Arduino Obstacle Avoidance Robot](https://github.com/ST10248581/ObjectAvoidanceRobot)
 **Status:** Complete
@@ -57,19 +54,6 @@ Refactored MVC E-commerce platform demonstrating built in .NET.
 
 ---
 
-## GitHub Highlights
-
-✅ Comfortable with:
-- CI/CD pipelines using GitHub Actions
-- Containerizing apps via Docker
-- Writing unit and integration tests (xUnit, Jasmine)
-- Designing and writing normalized, query-optimized SQL schemas
-
-🔍 Working on:
-- Enhancing REST API standards (pagination, filtering, OpenAPI specs)
-- Automating common dev tasks in my projects
-
----
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ST10248581&show_icons=true&theme=radical)  
@@ -78,8 +62,8 @@ Refactored MVC E-commerce platform demonstrating built in .NET.
 ---
 ## Latest Blog Posts
 
+-
+
 ---
 
-## Let’s Build Something Great
-
-Whether you're designing clean APIs or debugging client-side chaos — I love building things that **work beautifully** and **scale reliably**.
+Let’s Build Something Great
