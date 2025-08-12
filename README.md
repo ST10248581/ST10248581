@@ -1,10 +1,8 @@
 🎓 Final-year Computer Science Student | 💻 Full-stack Developer 
 
 > Focused on building modern systems with robust architecture and automation in mind.  
-> Currently working part-time as a developer.
-
+> Currently working part-time as a junior full-stack developer.
 ---
-
 ## Tech Stack
 
 **Core Tools**
@@ -18,26 +16,19 @@
 **DevOps & Tooling**
 - `Git & GitHub`, `Docker`, `GitHub Actions`, `Azure Ecosystem`
 - CI/CD pipelines, unit/integration testing, database migrations
-
 ---
 
 ## Projects & Work
-
 ### [DateInputNormalizer](https://github.com/ST10248581/timezone-date-normalization-api)
 **Status:** Complete
 
 - Time zone–safe DateTime and DateOnly JSON (de)serialization in .NET APIs using custom converters
-  
-### 🔄 [Looply]([https://github.com/yourname/looply](https://github.com/ST10248581/looply-ui))
-**Status:** In Progress
-
-- Workflow automation + task tracking system built in .NET & Angular
-
+--- 
 ### 🛒 [E-Commerce App](https://github.com/ST10248581/ABCRetail)
 **Status:** Comin Soon
 
 Refactored MVC E-commerce platform demonstrating built in .NET.
-
+---
 ### 🤖 [Arduino Obstacle Avoidance Robot](https://github.com/ST10248581/ObjectAvoidanceRobot)
 **Status:** Complete
 
@@ -45,17 +36,12 @@ Refactored MVC E-commerce platform demonstrating built in .NET.
 - Built with Arduino UNO, HC-SR04, and servo motor for navigation  
 - Demonstrates control structures, sensor integration, and hardware debugging
 ---
-
 ## Background & Approach
-
 - 🎓 Deep understanding of software architecture (academic + practical) 
 - 💬 Fluent in English & Afrikaans  
 - 📚 Constant learner – especially interested in architecture, testing, and automation systems
-
 ---
-
 ## GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ST10248581&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10248581&layout=compact&theme=radical)
 
