@@ -40,20 +40,9 @@ Refactored MVC E-commerce platform demonstrating built in .NET.
 - Demonstrates control structures, sensor integration, and hardware debugging
 ---
 
-## Background & Approach
-- 🎓 Deep understanding of software architecture (academic + practical) 
-- 💬 Fluent in English & Afrikaans  
-- 📚 Constant learner – especially interested in architecture, testing, and automation systems
----
-
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ST10248581&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10248581&layout=compact&theme=radical)
-
----
-## Latest Blog Posts
-
--
 
 ---
 
